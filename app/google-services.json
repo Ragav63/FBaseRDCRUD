@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719685815946",
+    "project_id": "fir-rdcrud",
+    "storage_bucket": "fir-rdcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719685815946:android:f10a19304450720ee2e773",
+        "android_client_info": {
+          "package_name": "com.example.firebaserdcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dHmiy-6h85d5QSoZZONpCcLDRI0Clxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
