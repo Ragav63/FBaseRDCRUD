@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="ShapeAppearanceOverlay.App.Circular" parent="">
-        <item name="cornerSize">50%</item> <!-- 50% makes it a circle -->
-    </style>
-
-</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#00ff00</color>
+    <color name="red">#FF0000</color>
+    <color name="salmon">#FA8072</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_grey">#DFC7C7</color>
+    <string name="app_name">FirebaseRDCRUD</string>
+    <string name="gcm_defaultSenderId" translatable="false">719685815946</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4dHmiy-6h85d5QSoZZONpCcLDRI0Clxg</string>
+    <string name="google_app_id" translatable="false">1:719685815946:android:f10a19304450720ee2e773</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4dHmiy-6h85d5QSoZZONpCcLDRI0Clxg</string>
+    <string name="google_storage_bucket" translatable="false">fir-rdcrud.appspot.com</string>
+    <string name="project_id" translatable="false">fir-rdcrud</string>
+    <style name="Base.Theme.FirebaseRDCRUD" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/salmon</item>
+        <item name="colorPrimaryVariant">@color/salmon</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.Circular" parent="">
+        <item name="cornerSize">50%</item> 
+    </style>
+    <style name="Theme.FirebaseRDCRUD" parent="Base.Theme.FirebaseRDCRUD"/>
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
